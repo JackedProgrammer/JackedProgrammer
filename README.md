@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackedProgrammer
 - 👀 I’m interested in making web apps, automating tasks using powershell, bodybuilding
-- 🌱 I’m currently learning python, and plan on learning full stack with react, redux, ruby.
+- 🌱 I’m currently learning the react framework.
 - 💞️ I’m looking to collaborate on anything I could help on
 - 📫 How to reach me @jackedprogrammer on instagram and tiktok and on YouTube as jackedprogrammer
 
